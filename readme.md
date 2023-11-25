@@ -1,0 +1,14 @@
+What I Learn : 
+- Introduction to NLP
+- Roadmap of NLP
+- NLTK
+- Stanford NLP
+- Spacy
+- Gensim
+- Tokenization
+- Stemming And Lemmatization
+- Bag of Words in NLP
+- TFIDF
+- Word Embedding
+- Word2vec
+- Implementation of spam classifier using python
